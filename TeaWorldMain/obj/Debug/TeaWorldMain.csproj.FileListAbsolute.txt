@@ -1,0 +1,11 @@
+C:\C# projects\TeaWorldMain\TeaWorldMain\bin\Debug\TeaWorldMain.exe.config
+C:\C# projects\TeaWorldMain\TeaWorldMain\bin\Debug\TeaWorldMain.exe
+C:\C# projects\TeaWorldMain\TeaWorldMain\bin\Debug\TeaWorldMain.pdb
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.csproj.AssemblyReference.cache
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.csproj.SuggestedBindingRedirects.cache
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.Form1.resources
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.Properties.Resources.resources
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.csproj.GenerateResource.cache
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.csproj.CoreCompileInputs.cache
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.exe
+C:\C# projects\TeaWorldMain\TeaWorldMain\obj\Debug\TeaWorldMain.pdb
